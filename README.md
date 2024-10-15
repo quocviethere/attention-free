@@ -1,6 +1,6 @@
 # Attention-free Language Models
 
-This is the code accompanying my undergraduate thesis. We (1) compare and analyze attention-free language models' performance for sentiment analysis task; and (2) release UEH-ECOM, a 90000-sample dataset for e-commerce platform sentiment analysis. 
+This is the code accompanying my undergraduate thesis. We (1) compare and analyze attention-free language models' performance for sentiment analysis task; and (2) release UEH-ECOM, a 90000-sample dataset for e-commerce platform sentiment analysis. This work is published as a conference paper at ICICCT2024.
 
 Supported models:
 - RNN, LSTM, BiLSTM
