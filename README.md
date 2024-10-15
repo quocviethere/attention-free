@@ -1,6 +1,6 @@
 # Attention-free Language Models
 
-This is the code accompanying my undergraduate thesis. 
+This is the code accompanying my undergraduate thesis. We (1) compare and analyze attention-free language models' performance for sentiment analysis task; and (2) release UEH-ECOM, a 90000-sample dataset for e-commerce platform sentiment analysis. 
 
 Supported models:
 - RNN, LSTM, BiLSTM
@@ -16,3 +16,5 @@ python main.py --train_file path/to/train.csv
 --epochs 10
 --batch_size 128
 ```
+
+If you prefer to use Colab for reproducing the results, the link is available [here](https://colab.research.google.com/drive/11mA78WevQKLA7vt3OFcN0r6NnpryRM6X?usp=sharing).
